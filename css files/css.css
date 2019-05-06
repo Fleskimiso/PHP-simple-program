@@ -1,0 +1,25 @@
+
+form{
+
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    box-align: center;
+    background-color: aqua;
+}
+div  {
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center ;
+    text-align: center;
+}
+.Hello{
+    background-color: brown;
+}
